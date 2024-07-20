@@ -12,13 +12,13 @@ I'm a second-year Computer Science student at Ariel University with a strong pas
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="CLion" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
-  <img src="https://img.icons8.com/color/48/000000/eclipse--v1.png" alt="Eclipse" />
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
 </div>
 
 ### Interests
