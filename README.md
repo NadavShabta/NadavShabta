@@ -1,7 +1,7 @@
 # <h1 align="center"><b>👋 Hi, I'm Nadav Shabtai</b></h1>
 
 ### About Me
-I'm a second-year Computer Science student at Ariel University with a strong passion for software development and data science. I have experience in various programming languages and database platforms, and I'm continuously seeking to improve my skills and take on new challenges.
+I'm a second-year Computer Science student with a strong passion for software development and data science. I have experience in various programming languages and database platforms, and I'm continuously seeking to improve my skills and take on new challenges.
 
 ### Skills
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
