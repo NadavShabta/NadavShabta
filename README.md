@@ -4,7 +4,7 @@
 I'm a second-year Computer Science student with a strong passion for software development and data science. I have experience in various programming languages and database platforms, and I'm continuously seeking to improve my skills and take on new challenges.
 
 
-### Skills
+### Languages, Platforms, and Tools
 <div align="center">
   <h3></h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48"/>
