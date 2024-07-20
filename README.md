@@ -6,18 +6,27 @@ I'm a second-year Computer Science student at Ariel University with a strong pas
 
 ### Skills
 <div align="center">
+  <h3>Languages</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+</div>
+
+<div align="center">
+  <h3>Coding Platforms</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="CLion" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" alt="Eclipse" width="48" height="48"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="48" height="48"/>
+</div>
+
+<div align="center">
+  <h3>Rest</h3>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
 </div>
 
