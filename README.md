@@ -6,16 +6,14 @@ I'm a second-year Computer Science student at Ariel University with a strong pas
 
 ### Skills
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" />
-  <img src="https://img.icons8.com/color/48/000000/clion.png" alt="CLion" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" alt="CLion" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
   <img src="https://img.icons8.com/color/48/000000/eclipse--v1.png" alt="Eclipse" />
