@@ -39,9 +39,15 @@ I'm a second-year Computer Science student with a strong passion for software de
 - 🤖 Artificial Intelligence (Machine Learning, Data Science)
 
 ### Contact
-- **Email:** [Nadav.shabt@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/nadav-shabtai-42034b2b8/]
-- **Portfolio:** [Your Portfolio URL]
+<div>
+  <a href="mailto:Nadav.shabt@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="24" height="24"/> Email
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/nadav-shabtai-42034b2b8/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" height="24"/> LinkedIn
+  </a>
+</div>
 
 ### GitHub Stats
 ![Nadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadavShabta&show_icons=true&theme=radical)
