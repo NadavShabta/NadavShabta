@@ -39,8 +39,8 @@ I'm a second-year Computer Science student with a strong passion for software de
 - 🤖 Artificial Intelligence (Machine Learning, Data Science)
 
 ### Contact
-- **Email:** [Nadav034@gmail.com]
-- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [Nadav.shabt@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/nadav-shabtai-42034b2b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ7sTTu5fQpe%2B5kZyUV6Gbg%3D%3D]
 - **Portfolio:** [Your Portfolio URL]
 
 ### GitHub Stats
