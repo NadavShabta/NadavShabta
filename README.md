@@ -50,7 +50,6 @@ I'm a second-year Computer Science student with a strong passion for software de
 </div>
 
 ### GitHub Stats
-![Nadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadavShabta&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadavShabta&layout=compact&theme=radical)
 
 ---
