@@ -26,6 +26,7 @@ I'm a second-year Computer Science student with a strong passion for software de
   <h3></h3>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="48" height="48"/>
   <h3></h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="48" height="48"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
